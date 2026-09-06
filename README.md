@@ -2,13 +2,11 @@
 
 This repo re-packages FreeJ2ME-Plus core into PAK format for PAK store
 
-Main
-
 ## Credits
 
 ### FreeJ2ME
 
-All credits for the development of the core goes to people at [FreeJ2ME-Plus](https://github.com/TASEmulators/freej2me-plus), which I have included as a submodule for this repository.
+All credits for the development of the core goes to people at [FreeJ2ME-Plus](https://github.com/TASEmulators/freej2me-plus). The original repository have been included as a submodule for this repository.
 
 *I do not own FreeJ2ME-Plus source code, nor affiliate with maintainers from FreeJ2ME-Plus.*
 
