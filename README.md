@@ -23,9 +23,7 @@ The `so` core is compiled for ARM64 (`aarch64`) only, and can only run on ARM64 
 ## Installation
 
 - Download `J2ME.pak.zip` from [Releases](https://github.com/reesque/J2ME-Pak/releases)
-- Download `BIOS.zip` from [Releases](https://github.com/reesque/J2ME-Pak/releases)
 - Extract the content to `Emus/<platform>/` directory of the SD Card
-- Extract the content of `BIOS.zip` into `Bios/` directory
 - Make sure J2ME `jar` games are located in `Roms/J2ME`
 - Reinsert the SD card and boot into NextUI
 - It should show up in the main UI

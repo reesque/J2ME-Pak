@@ -15,6 +15,10 @@ ROM="$1"
 mkdir -p "$BIOS_PATH/$EMU_TAG"
 mkdir -p "$SAVES_PATH/$EMU_TAG"
 mkdir -p "$CHEATS_PATH/$EMU_TAG"
+
+cp -n "$CORES_PATH/bios/freej2me.jar" "$BIOS_PATH/$EMU_TAG/freej2me.jar"
+cp -n "$CORES_PATH/bios/freej2me-lr.jar" "$BIOS_PATH/$EMU_TAG/freej2me-lr.jar"
+
 HOME="$USERDATA_PATH"
 cd "$HOME"
 minarch.elf "$CORES_PATH/${EMU_EXE}_libretro.so" "$ROM" > "$LOGS_PATH/$EMU_TAG.txt" 2>&1

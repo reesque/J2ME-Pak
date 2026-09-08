@@ -1,13 +1,14 @@
 {
   "name": "J2ME",
-  "version": "v1.6.0",
+  "version": "v1.6.1",
   "type": "EMU",
   "description": "Emulator for J2ME games",
   "author": "FreeJ2ME-Plus & Reesque",
   "repo_url": "https://github.com/reesque/J2ME-Pak",
   "release_filename": "J2ME.pak.zip",
   "changelog": {
-    "v1.6.0": "Initial release"
+    "v1.6.0": "Initial release",
+    "v1.6.1": "Added auto BIOS copy command to launch"
   },
   "screenshots": [],
   "platforms": [
