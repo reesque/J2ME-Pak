@@ -2,7 +2,7 @@
   "name": "J2ME",
   "version": "v1.6.1",
   "type": "EMU",
-  "description": "Emulator for J2ME games",
+  "description": "Emulator for running all compatible J2ME games from pre-smartphone/Symbian era on devices like Nokia, Sony Ericsson, Motorola, Samsung, Blackberry, etc.",
   "author": "FreeJ2ME-Plus & Reesque",
   "repo_url": "https://github.com/reesque/J2ME-Pak",
   "release_filename": "J2ME.pak.zip",
@@ -10,7 +10,11 @@
     "v1.6.0": "Initial release",
     "v1.6.1": "Added auto BIOS copy command to launch"
   },
-  "screenshots": [],
+  "screenshots": [
+    ".github/resources/screenshots/screenshot0.png",
+    ".github/resources/screenshots/screenshot1.png",
+    ".github/resources/screenshots/screenshot2.png"
+  ],
   "platforms": [
     "tg5040",
     "tg5050",
