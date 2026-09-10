@@ -16,6 +16,10 @@ This repository includes compiled version of Zulu JRE 17.54.21, which was obtain
 
 *I do not own Zulu JRE source code and binaries, nor affiliate with Azul Systems.*
 
+### MinUI-Presenter
+
+All credits goes to the team at [MinUi Presenter](https://github.com/josegonzalez/minui-presenter)
+
 ## Supported devices
 
 The `so` core is compiled for ARM64 (`aarch64`) only, and can only run on ARM64 devices.
